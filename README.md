@@ -1,3 +1,4 @@
+# THIS PROJECT IS NOT LONGER MAINTAINED HERE. PLEASE VISIT https://git.pirl.io/community/pirl.git
 ## Go Pirl 1.8.1 ( testing )
 
 Official golang implementation of the Pirl protocol.
